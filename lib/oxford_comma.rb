@@ -1,3 +1,6 @@
-def oxford_comma(array1, array2)
-  array.join
+def oxford_comma(array1)
+  if array.legth == 1
+    array.join
+  else
+   array[-1]
 end
