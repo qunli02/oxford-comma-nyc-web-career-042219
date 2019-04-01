@@ -1,4 +1,4 @@
-def oxford_comma(array1)
+def oxford_comma(array)
   if array.legth == 1
     array.join
   else
